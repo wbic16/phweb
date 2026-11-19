@@ -1,0 +1,5 @@
+Welcome to phext.example - this whole file is the home page,
+and it is a phext: every scroll is addressable by coordinate.
+Try /index.phext@1.1.1/1.1.1/1.1.2 for the second scroll alone,
+or /index.phext@toc for the streamed index.
+Second scroll of the phext.example home phext.

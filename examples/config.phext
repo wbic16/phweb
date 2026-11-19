@@ -1,0 +1,15 @@
+# config.phext - phweb domain configuration (see README.md)
+# scroll 1.1.1/1.1.1/1.1.1: root defaults for every host
+domain = (root)
+docroot = examples/www
+index = index.html
+phext_stream = on
+# scroll 1.1.1/1.2.1/1.1.1: phext.example (Volume 2)
+domain = phext.example
+docroot = examples/www-phext
+index = index.phext
+phext_stream = on
+# scroll 1.1.1/1.2.1/2.1.1: demo.phext.example (Chapter 2 inside
+# phext.example's Volume - a subdomain descending from its parent)
+domain = demo.phext.example
+index = index.phext
